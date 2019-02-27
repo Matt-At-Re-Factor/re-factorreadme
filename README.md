@@ -2,7 +2,7 @@
 
 #####**A Brief About Us**#####
 
-Our guiding principle is to do good and do well and we try and live that every day. We enjoy helping software engineers and adjacents jobsearch and our intent is to introduce folks we work with to hiring teams building inclusive and enjoyable workdays and making interesting and useful software. We never lose sight of the notion that it's your job to go to every day and not ours so you make all the jobsearch decisions; we're just here to create introductions, help you interview and gather the information you need to make a good one.
+Our guiding principle is to do good and do well and we try and live that every day. We enjoy helping software engineers and adjacent technical workers jobsearch and our intent is to introduce folks we work with to hiring teams building inclusive and enjoyable workdays and making interesting and useful software. We never lose sight of the notion that it's your job to go to every day and not ours so you make all the jobsearch decisions; we're just here to create introductions, help you interview and gather the information you need to make a good one.
 
 #####**An Apt Sports Metaphor**#####
 
