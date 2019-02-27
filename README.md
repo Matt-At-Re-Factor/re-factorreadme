@@ -25,5 +25,5 @@ Please do let us know if you're getting close to fielding or taking other offers
 - [ ] Schedule an introductory call or coffee with us at calendly.com/matt-at-re-factor
 - [ ] Opt in or out of interviews with teams we share
 - [ ] Get help working through slate of interviews which typically range from phone screen, tech eval, to final interview
-- [ ] Field offers and get any necessary help understanding benefits, compensation and getting questions answered
+- [ ] Field offers and receive any necessary help understanding benefits, compensation and getting questions answered
 - [ ] Begin your new workday
